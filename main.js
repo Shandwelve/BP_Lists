@@ -22,7 +22,7 @@ class SinglyList {
       this.nodeLenght++;
 
       return node;
-    }~
+    }
 
     while (currentNode.next) {
       currentNode = currentNode.next;
